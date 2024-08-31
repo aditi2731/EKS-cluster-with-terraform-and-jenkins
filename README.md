@@ -1,1 +1,0 @@
-# EKS-cluster-with-terraform-and-jenkins
